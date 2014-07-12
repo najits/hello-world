@@ -1,0 +1,21 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.jumbotron h1{
+	color: gray;
+}
+
+.jumbotron p{
+	color: gray;
+}
+
+.jumbotron h1:hover{
+	color: white;
+}
+
+.jumbotron p:hover{
+	color: white;
+}
